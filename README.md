@@ -4,22 +4,26 @@
 
 <h1>Hi, I'm Ke Hu 👋</h1>
 
-<p>
-  M.S. Student in Computer Science at ShanghaiTech University<br />
-  Research interests: Reinforcement Learning, Generative Models, Robot Learning
-</p>
+ <p>
+        <a href="mailto:huke0907@gmail.com">
+          <img src="https://img.shields.io/badge/Email-huke0907%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+        </a>
+        <a href="https://scholar.google.com/citations?user=i4IBFT0AAAAJ&hl=zh-CN">
+          <img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar" />
+        </a>
+      </p>
 
 ### About Me
 
-I'm a graduate student in Computer Science at ShanghaiTech University.
+I am a Master’s student in Computer Science at ShanghaiTech University. 
 
-My research focuses on reinforcement learning, diffusion and generative models, robot learning, online decision-making, and sim-to-real transfer.
+My research lies at the intersection of Reinforcement Learning and Generative Models. I am particularly interested in bridging the gap between simulation and reality through diffusion-based policies.
 
-### Contact
+📧 Open to tech chats and collaborations!
 
-- [Email](mailto:huke0907@gmail.com)
-- [Google Scholar](https://scholar.google.com/citations?user=i4IBFT0AAAAJ&hl=zh-CN)
-
+### Service
+- Conference: ICML(2026), NIPS(2025), ICLR(2026), CPAL(2026)
+- Journal: IEEE TASE
     </td>
     <td valign="top" width="36%" align="right">
       <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31b7qkflpsmw4cvgpm7vefnkicqm&redirect=true">
