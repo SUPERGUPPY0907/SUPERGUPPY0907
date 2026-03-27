@@ -22,7 +22,7 @@ My research lies at the intersection of Reinforcement Learning and Generative Mo
 📧 Open to tech chats and collaborations!
 
 ### Service
-- Conference: ICML(2026), NIPS(2025), ICLR(2026), CPAL(2026)
+- Conference: ICML(2026), NIPS(2025,2026), ICLR(2026), CPAL(2026)
 - Journal: IEEE TASE
     </td>
     <td valign="top" width="36%" align="right">
