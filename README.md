@@ -26,9 +26,9 @@ My research lies at the intersection of Reinforcement Learning and Generative Mo
 - Journal: IEEE TASE
 
 ### Blog
-- Offline RL& Imitation Learning: [click here](https://github.com/SUPERGUPPY0907/SUPERGUPPY0907/issues/1)
+- Offline RL & Imitation Learning: [click here](https://github.com/SUPERGUPPY0907/SUPERGUPPY0907/issues/1)
     </td>
-    <td valign="middle" width="36%" align="center">
+    <td valign="top" width="36%" align="center">
       <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31b7qkflpsmw4cvgpm7vefnkicqm&redirect=true">
         <img
           src="https://spotify-github-profile.kittinanx.com/api/view?uid=31b7qkflpsmw4cvgpm7vefnkicqm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color_cover=true&bar_color=1db954&mode=dark"
