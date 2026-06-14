@@ -17,7 +17,7 @@
 
 I am a Master’s student in Computer Science at ShanghaiTech University. 
 
-My research lies at the intersection of Reinforcement Learning and Generative Models. I am particularly interested in bridging the gap between simulation and reality through diffusion-based policies.
+My research lies at the intersection of Reinforcement Learning and Generative Models. 
 
 📧 Open to tech chats and collaborations, and I am actively looking for Fall 2027 Ph.D. programs!!
 
