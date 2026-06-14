@@ -27,6 +27,7 @@ My research lies at the intersection of Reinforcement Learning and Generative Mo
 
 ### Blog
 - Offline RL & Imitation Learning: [click here](https://github.com/SUPERGUPPY0907/SUPERGUPPY0907/issues/1)
+- Flow Model & On-Policy training: [click here](https://github.com/SUPERGUPPY0907/SUPERGUPPY0907/issues/2)
     </td>
     <td width="36%" align="center" valign="top">
       <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31b7qkflpsmw4cvgpm7vefnkicqm&redirect=true">
