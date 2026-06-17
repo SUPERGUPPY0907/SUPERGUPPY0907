@@ -37,6 +37,13 @@ My research lies at the intersection of Reinforcement Learning and Generative Mo
           alt="Spotify Now Playing"
         />
       </a>
+        <br /><br />
+
+  <img
+    src="https://raw.githubusercontent.com/SUPERGUPPY0907/nba_score/main/output/nba-score.svg"
+    width="300"
+    alt="NBA latest score"
+  />
     </td>
   </tr>
 </table>
