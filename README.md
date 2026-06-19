@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td valign="top" width="64%">
+    <td valign="top" width="55%">
 
 <h1>Hi, I'm Ke Hu 👋</h1>
 
@@ -29,11 +29,11 @@ My research lies at the intersection of Reinforcement Learning and Generative Mo
 - Offline RL & Imitation Learning: [click here](https://github.com/SUPERGUPPY0907/SUPERGUPPY0907/issues/1)
 - Flow Model & On-Policy training: [click here](https://github.com/SUPERGUPPY0907/SUPERGUPPY0907/issues/2)
     </td>
-    <td width="36%" align="center" valign="top">
+    <td width="45%" align="center" valign="top">
       <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31b7qkflpsmw4cvgpm7vefnkicqm&redirect=true">
         <img
           src="https://spotify-github-profile.kittinanx.com/api/view?uid=31b7qkflpsmw4cvgpm7vefnkicqm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color_cover=true&bar_color=1db954&mode=dark"
-          width="300"
+          width="400"
           alt="Spotify Now Playing"
         />
       </a>
@@ -41,7 +41,7 @@ My research lies at the intersection of Reinforcement Learning and Generative Mo
 
   <img
     src="https://raw.githubusercontent.com/SUPERGUPPY0907/nba_score/card-output/output/nba-score.svg"
-    width="300"
+    width="400"
     alt="NBA latest score"
   />
     </td>
